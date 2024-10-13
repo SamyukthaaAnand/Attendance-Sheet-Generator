@@ -1,2 +1,2 @@
-# attendance-sheet-generator
+# Smart Attendance Generator
 mini project
